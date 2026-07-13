@@ -1,8 +1,8 @@
 # Wavy Eats Browser — mises à jour
 
-Ce dépôt sert **uniquement** au système de mise à jour automatique de
-Wavy Eats Browser. L'application lit le fichier [`version.json`](version.json)
-pour savoir si une nouvelle version est disponible.
+Dépôt **privé** servant **uniquement** au système de mise à jour automatique
+de Wavy Eats Browser. L'application lit [`version.json`](version.json) via l'API
+GitHub (jeton lecture seule) pour savoir si une nouvelle version est disponible.
 
 ## Publier une nouvelle version
 
