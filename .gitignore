@@ -1,0 +1,3 @@
+# Scripts locaux d'aide — ne pas publier dans le depot de mises a jour
+PUBLIER-SUR-GITHUB.bat
+configure-app.ps1

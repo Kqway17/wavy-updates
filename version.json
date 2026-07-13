@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
-  "url": "",
+  "tag": "v1.0.0",
+  "asset": "WAVY-EATS-BROWSER-PACKAGE.zip",
   "notes": "Version initiale de Wavy Eats Browser.",
   "mandatory": false,
   "sha256": ""
