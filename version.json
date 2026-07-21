@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "tag": "v1.0.0",
-  "asset": "WAVY-EATS-BROWSER-PACKAGE.zip",
+  "asset": "Wavy-Eats-Browser-Setup.exe",
   "notes": "Version initiale de Wavy Eats Browser.",
   "mandatory": false,
   "sha256": ""
