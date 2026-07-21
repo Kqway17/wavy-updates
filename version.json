@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "tag": "v1.0.0",
-  "asset": "Wavy-Eats-Browser-Setup.exe",
-  "notes": "Version initiale de Wavy Eats Browser.",
-  "mandatory": false,
-  "sha256": ""
+    "version":  "1.0.0",
+    "tag":  "v1.0.0",
+    "asset":  "Wavy-Eats-Browser-Setup.exe",
+    "notes":  "Version initiale de Wavy Eats Browser.",
+    "mandatory":  false,
+    "sha256":  "ba025e3183874a99250aaf1569941e8b8ec66dccdd4a4daa56fd7c1aa9f0a1fd"
 }
