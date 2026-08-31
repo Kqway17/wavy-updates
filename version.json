@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "tag": "v1.1.0",
+  "version": "1.2.0",
+  "tag": "v1.2.0",
   "asset": "Wavy-Eats-Browser-Setup.exe",
-  "notes": "Generateur de proxy : selection automatique du proxy le plus rapide. Nom de profil personnalise. Creation avec ou sans proxy + animation de recherche.",
+  "notes": "Nouvel onglet Adresse : genere une adresse livrable a proximite de la commande (meme code postal), copie en un clic et application directe a la commande.",
   "mandatory": false,
-  "sha256": "ec5b601ea4a0ab6cf60eb141e1ff4de559424e4e1a57a74b1b6e8e39173731cc"
+  "sha256": "5288409a7b25de29d543bd01338f2e37cb1b048a28651956959ef913315f9572"
 }
