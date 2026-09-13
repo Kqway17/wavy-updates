@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "tag": "v1.2.0",
+  "version": "1.3.0",
+  "tag": "v1.3.0",
   "asset": "Wavy-Eats-Browser-Setup.exe",
-  "notes": "Nouvel onglet Adresse : genere une adresse livrable a proximite de la commande (meme code postal), copie en un clic et application directe a la commande.",
+  "notes": "Refonte visuelle TimeToEat. Commande auto: toutes les options + adresse + photos. Onglet Prix client (affichage direct sur la page). Regen proxy + recherche de profils. Connexion auto d un compte.",
   "mandatory": false,
-  "sha256": "5288409a7b25de29d543bd01338f2e37cb1b048a28651956959ef913315f9572"
+  "sha256": "0c0481bb237d91dff97b97477ebcaab2fca16cc4a0189e2e9a3edfea584f97b0"
 }
