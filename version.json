@@ -4,5 +4,5 @@
   "asset": "Wavy-Eats-Browser-Setup.exe",
   "notes": "Refonte visuelle TimeToEat. Commande auto: toutes les options + adresse + photos. Onglet Prix client (affichage direct sur la page). Regen proxy + recherche de profils. Connexion auto d un compte.",
   "mandatory": false,
-  "sha256": "0c0481bb237d91dff97b97477ebcaab2fca16cc4a0189e2e9a3edfea584f97b0"
+  "sha256": "1524d95891bbe5e9094a6bbe08389472ef06f435b6d38c261546d68ac4c0ff4b"
 }
