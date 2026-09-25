@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "tag": "v1.3.0",
+  "version": "1.4.0",
+  "tag": "v1.4.0",
   "asset": "Wavy-Eats-Browser-Setup.exe",
-  "notes": "Refonte visuelle TimeToEat. Commande auto: toutes les options + adresse + photos. Onglet Prix client (affichage direct sur la page). Regen proxy + recherche de profils. Connexion auto d un compte.",
+  "notes": "Page Paramètres refaite. Bouton « Tester le proxy » dans l'onglet Proxies. Renommage des profils dans une grande popup. Bouton « Regen proxy » dans l'édition du proxy (appliqué directement).",
   "mandatory": false,
-  "sha256": "7165fb5fa3ba0ba535937894c1d1f304634663e65e7e219c6765a1d3627b6208"
+  "sha256": "fb0eb25b349a0a253c4ac7e64c7fa2ef648c96d4cd2ef5c72b0cbeea202f81c5"
 }
