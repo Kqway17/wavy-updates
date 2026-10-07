@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "tag": "v1.5.0",
+  "version": "1.5.1",
+  "tag": "v1.5.1",
   "asset": "Wavy-Eats-Browser-Setup.exe",
-  "notes": "Reglages refaits, Parametres (marge + distance adresse), paniers courses: ne pas remplacer, boutons colores, ajout carte cadeau (bon).",
+  "notes": "Fix carte cadeau (ajout via wallet), texte distance dynamique. + 1.5.0: Reglages, Parametres, courses ne pas remplacer, boutons colores.",
   "mandatory": false,
-  "sha256": "7f759dbde5d7a46c1fafb6623aa2eab56e453053adde569bd3629a7d4baf6f95"
+  "sha256": "2988164f8a34f0c5c3a137d360d8707ec772b442e111cfeafe52b81a6c93d5d2"
 }
