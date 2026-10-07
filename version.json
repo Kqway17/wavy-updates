@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "tag": "v1.4.0",
+  "version": "1.5.0",
+  "tag": "v1.5.0",
   "asset": "Wavy-Eats-Browser-Setup.exe",
-  "notes": "Page Paramètres refaite. Bouton « Tester le proxy » dans l'onglet Proxies. Renommage des profils dans une grande popup. Bouton « Regen proxy » dans l'édition du proxy (appliqué directement).",
+  "notes": "Reglages refaits, Parametres (marge + distance adresse), paniers courses: ne pas remplacer, boutons colores, ajout carte cadeau (bon).",
   "mandatory": false,
-  "sha256": "fb0eb25b349a0a253c4ac7e64c7fa2ef648c96d4cd2ef5c72b0cbeea202f81c5"
+  "sha256": "7f759dbde5d7a46c1fafb6623aa2eab56e453053adde569bd3629a7d4baf6f95"
 }
